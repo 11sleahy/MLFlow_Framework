@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/e1f4c456aea94a7b84819d16a301a243/artifacts
+end_time: 1697466614066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1f4c456aea94a7b84819d16a301a243
+run_name: legendary-bat-359
+run_uuid: e1f4c456aea94a7b84819d16a301a243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697466607371
+status: 3
+tags: []
+user_id: simle

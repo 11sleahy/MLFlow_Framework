@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/737b7c69f2a641d7bc8137fd763e78dd/artifacts
+end_time: 1697656152223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 737b7c69f2a641d7bc8137fd763e78dd
+run_name: nervous-roo-933
+run_uuid: 737b7c69f2a641d7bc8137fd763e78dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697656152174
+status: 4
+tags: []
+user_id: simle

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/cde12e0fa4a5442bbc9c5876dcb60d9c/artifacts
+end_time: 1697651712594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cde12e0fa4a5442bbc9c5876dcb60d9c
+run_name: skittish-bug-676
+run_uuid: cde12e0fa4a5442bbc9c5876dcb60d9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697651708509
+status: 3
+tags: []
+user_id: simle

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/c2f6c16062064908b2727c6317b36899/artifacts
+end_time: 1697656167579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2f6c16062064908b2727c6317b36899
+run_name: melodic-shrike-332
+run_uuid: c2f6c16062064908b2727c6317b36899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697656167529
+status: 4
+tags: []
+user_id: simle

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/e323e287d1134912a140224e5ad25cb2/artifacts
+end_time: 1697655181045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e323e287d1134912a140224e5ad25cb2
+run_name: rogue-newt-438
+run_uuid: e323e287d1134912a140224e5ad25cb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697655177117
+status: 3
+tags: []
+user_id: simle

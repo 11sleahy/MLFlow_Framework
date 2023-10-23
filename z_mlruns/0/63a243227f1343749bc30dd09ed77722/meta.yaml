@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/63a243227f1343749bc30dd09ed77722/artifacts
+end_time: 1697656215555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63a243227f1343749bc30dd09ed77722
+run_name: capricious-croc-996
+run_uuid: 63a243227f1343749bc30dd09ed77722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697656211421
+status: 3
+tags: []
+user_id: simle

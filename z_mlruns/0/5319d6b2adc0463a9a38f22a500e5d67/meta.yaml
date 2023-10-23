@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/5319d6b2adc0463a9a38f22a500e5d67/artifacts
+end_time: 1697650487681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5319d6b2adc0463a9a38f22a500e5d67
+run_name: nimble-tern-144
+run_uuid: 5319d6b2adc0463a9a38f22a500e5d67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697650483412
+status: 3
+tags: []
+user_id: simle

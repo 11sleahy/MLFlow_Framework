@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/3a00311d09dd474cae025dfa32cea1ef/artifacts
+end_time: 1697468207662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a00311d09dd474cae025dfa32cea1ef
+run_name: dapper-boar-14
+run_uuid: 3a00311d09dd474cae025dfa32cea1ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697468202613
+status: 3
+tags: []
+user_id: simle

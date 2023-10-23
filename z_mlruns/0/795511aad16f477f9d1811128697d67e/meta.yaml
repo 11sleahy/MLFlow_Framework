@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/795511aad16f477f9d1811128697d67e/artifacts
+end_time: 1697656189075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 795511aad16f477f9d1811128697d67e
+run_name: inquisitive-ram-697
+run_uuid: 795511aad16f477f9d1811128697d67e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697656185016
+status: 3
+tags: []
+user_id: simle

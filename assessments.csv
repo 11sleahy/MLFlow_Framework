@@ -1,0 +1,391 @@
+Assessment_Text,Endoscopy,Colonoscopy,Lumbar_puncture,MRI,PET,XRAY
+"In cases of dysphagia, an endoscopic examination is recommended.",1,0,0,0,0,0
+Patients presenting with persistent abdominal pain and bloating should undergo a colonoscopy.,0,1,0,0,0,0
+"When severe headache and neck stiffness are observed, a lumbar puncture is required for further evaluation.",0,0,1,0,0,0
+An MRI is necessary for patients with a history of seizures to evaluate brain activity.,0,0,0,1,0,0
+"In instances of unexplained weight loss and fatigue, a PET scan should be performed to check for tumors.",0,0,0,0,1,0
+An X-ray is required for patients reporting persistent knee pain after a fall to assess possible fractures.,0,0,0,0,0,1
+Endoscopy is advised for patients experiencing chronic acid reflux symptoms.,1,0,0,0,0,0
+Colonoscopy is necessary for patients presenting with signs of anemia and rectal bleeding.,0,1,0,0,0,0
+"In cases of severe back pain, both MRI and lumbar puncture are suggested.",0,0,1,0,0,0
+"In cases of severe back pain, both MRI and lumbar puncture are suggested.",0,0,0,1,0,0
+"For patients with a history of smoking and a persistent cough, a PET scan and X-ray are recommended for lung assessment.",0,0,0,0,1,0
+"For patients with a history of smoking and a persistent cough, a PET scan and X-ray are recommended for lung assessment.",0,0,0,0,0,1
+Suspected gallstone cases should undergo endoscopy and X-ray examinations.,1,0,0,0,0,1
+Changes in bowel habits and abdominal pain warrant a colonoscopy.,0,1,0,0,0,0
+Persistent neck pain calls for lumbar puncture and MRI evaluations.,0,0,1,0,0,0
+Persistent neck pain calls for lumbar puncture and MRI evaluations.,0,0,0,1,0,0
+Patients exhibiting memory loss and confusion should have an MRI to evaluate brain structure.,0,0,0,1,0,0
+Unusual moles on the skin necessitate a PET scan to check for melanoma.,0,0,0,0,1,0
+Swollen ankles following a fall should be assessed with an X-ray to determine the severity of the injury.,0,0,0,0,0,1
+Difficulty swallowing and heartburn cases should be evaluated with an endoscopy.,1,0,0,0,0,0
+Blood in stool requires a colonoscopy for further examination.,0,1,0,0,0,0
+Severe headache and fever may indicate meningitis; a lumbar puncture is advised for diagnosis.,0,0,1,0,0,0
+Loss of balance and coordination should be investigated with an MRI for potential neurological disorders.,0,0,0,1,0,0
+Unusual growth in the abdomen warrants a PET scan for further evaluation.,0,0,0,0,1,0
+Chest pain and shortness of breath call for an X-ray to assess lung health.,0,0,0,0,0,1
+Endoscopic examination is advised in cases of persistent gastroesophageal reflux disease.,1,0,0,0,0,0
+Patients presenting with unexplained iron deficiency anemia should undergo colonoscopy.,0,1,0,0,0,0
+"Upon observation of symptoms indicating possible multiple sclerosis, lumbar puncture may be required for further evaluation.",0,0,1,0,0,0
+"For patients with sudden-onset severe headaches, an MRI is necessary to assess possible underlying causes.",0,0,0,1,0,0
+"In the presence of symptoms suggesting lymphoma, a PET scan is recommended to check for malignancy.",0,0,0,0,1,0
+An X-ray is advised for patients experiencing acute wrist pain after trauma to assess potential fractures.,0,0,0,0,0,1
+Upper endoscopy should be considered for patients with suspected peptic ulcers.,1,0,0,0,0,0
+Patients experiencing persistent diarrhea with mucus or blood in the stool should undergo colonoscopy.,0,1,0,0,0,0
+"In cases of suspected Guillain-Barré syndrome, lumbar puncture and MRI are recommended.",0,0,1,0,0,0
+"In cases of suspected Guillain-Barré syndrome, lumbar puncture and MRI are recommended.",0,0,0,1,0,0
+"For patients with suspected lung cancer, a combination of PET scan and X-ray is advised.",0,0,0,0,1,0
+"For patients with suspected lung cancer, a combination of PET scan and X-ray is advised.",0,0,0,0,0,1
+Endoscopic evaluation is warranted in patients with suspected esophageal stricture.,1,0,0,0,0,0
+Patients presenting with symptoms indicative of inflammatory bowel disease should undergo colonoscopy.,0,1,0,0,0,0
+"In cases of suspected central nervous system infections, lumbar puncture should be performed.",0,0,1,0,0,0
+Patients with unexplained visual disturbances should have an MRI to evaluate potential causes.,0,0,0,1,0,0
+Unusual metabolic activity in a known cancer patient necessitates a PET scan for further assessment.,0,0,0,0,1,0
+An X-ray examination is recommended for patients with suspected rib fractures following chest trauma.,0,0,0,0,0,1
+Endoscopy is advised in cases of suspected upper gastrointestinal bleeding.,1,0,0,0,0,0
+Patients with a family history of colorectal cancer should undergo colonoscopy.,0,1,0,0,0,0
+An MRI and lumbar puncture are recommended in cases of suspected spinal cord compression.,0,0,1,0,0,0
+An MRI and lumbar puncture are recommended in cases of suspected spinal cord compression.,0,0,0,1,0,0
+Patients with a history of breast cancer should undergo PET scans to monitor for potential metastases.,0,0,0,0,1,0
+"In cases of suspected foreign body ingestion, an X-ray examination is necessary.",0,0,0,0,0,1
+Patients experiencing chronic sinusitis should be evaluated with endoscopic examination.,1,0,0,0,0,0
+Colonoscopy is advised for patients with a history of polyps or adenomas.,0,1,0,0,0,0
+Patients presenting with symptoms suggestive of meningitis should undergo lumbar puncture.,0,0,1,0,0,0
+An MRI is recommended for patients with unexplained hearing loss to evaluate potential causes,0,0,0,1,0,0
+Upper gastrointestinal bleeding may require an endoscopic evaluation.,1,0,0,0,0,0
+"For an accurate diagnosis of Crohn's disease, a colonoscopy is often needed.",0,1,0,0,0,0
+Patients with suspected meningitis should undergo a lumbar puncture.,0,0,1,0,0,0
+An MRI scan is recommended for those experiencing persistent headaches.,0,0,0,1,0,0
+A PET scan may be used to monitor cancer progression in patients.,0,0,0,0,1,0
+An X-ray is often used to diagnose bone fractures.,0,0,0,0,0,1
+"In cases of severe gastroesophageal reflux disease, an endoscopy may be advised.",1,0,0,0,0,0
+Individuals with a family history of colon cancer should undergo routine colonoscopies.,0,1,0,0,0,0
+Diagnosing multiple sclerosis may involve a lumbar puncture.,0,0,1,0,0,0
+An MRI is useful in evaluating brain abnormalities.,0,0,0,1,0,0
+Patients with suspected Alzheimer's disease may benefit from a PET scan.,0,0,0,0,1,0
+An X-ray can help identify lung infections or abnormalities.,0,0,0,0,0,1
+A peptic ulcer may necessitate an endoscopic examination.,1,0,0,0,0,0
+Screening for colorectal polyps requires a colonoscopy.,0,1,0,0,0,0
+A lumbar puncture may be performed to diagnose Guillain-Barré syndrome.,0,0,1,0,0,0
+An MRI is useful for detecting spinal cord compression.,0,0,0,1,0,0
+A PET scan can help assess the effectiveness of cancer treatment.,0,0,0,0,1,0
+An X-ray is often the first step in diagnosing joint pain.,0,0,0,0,0,1
+Endoscopy is a valuable tool in diagnosing celiac disease.,1,0,0,0,0,0
+A colonoscopy is used to detect diverticulosis in patients with lower abdominal pain.,0,1,0,0,0,0
+A lumbar puncture is necessary for diagnosing subarachnoid hemorrhage.,0,0,1,0,0,0
+An MRI is helpful in detecting brain tumors.,0,0,0,1,0,0
+A PET scan is recommended for staging lung cancer.,0,0,0,0,1,0
+An X-ray can reveal the presence of kidney stones.,0,0,0,0,0,1
+Achalasia can be diagnosed using an endoscopic examination.,1,0,0,0,0,0
+A colonoscopy is performed to remove colonic polyps.,0,1,0,0,0,0
+Lumbar puncture is essential for diagnosing cryptococcal meningitis.,0,0,1,0,0,0
+An MRI is used to evaluate soft tissue injuries.,0,0,0,1,0,0
+Day 1: Assess patient with suspected esophageal stricture - Perform esophagogastroduodenoscopy.,1,0,0,0,0,0
+Week 6: Persistent rectal bleeding - Schedule colonoscopy for patient.,0,1,0,0,0,0
+Day 3: Suspected case of bacterial meningitis - Conduct cerebrospinal fluid analysis via lumbar puncture.,0,0,1,0,0,0
+Day 10: Evaluate patient with unexplained seizures - Order brain magnetic resonance imaging.,0,0,0,1,0,0
+Month 3: Monitor patient with diagnosed lymphoma - Schedule positron emission tomography scan.,0,0,0,0,1,0
+Day 2: Assess patient with wrist pain after fall - Obtain wrist radiograph.,0,0,0,0,0,1
+Day 1: Patient presenting with dyspepsia - Perform upper gastrointestinal endoscopy.,1,0,0,0,0,0
+Day 14: Follow-up for patient with family history of colorectal cancer - Arrange colonoscopy.,0,1,0,0,0,0
+Week 4: Evaluate patient with suspected chronic inflammatory demyelinating polyneuropathy - Perform lumbar puncture.,0,0,1,0,0,0
+Day 7: Assess patient with sudden-onset unilateral vision loss - Schedule orbital MRI.,0,0,0,1,0,0
+Month 6: Follow-up evaluation for patient with lung cancer - Arrange PET scan.,0,0,0,0,1,0
+Day 5: Evaluate patient with persistent cough - Order chest X-ray.,0,0,0,0,0,1
+Week 8: Monitor patient with Barrett's esophagus - Schedule esophagogastroduodenoscopy.,1,0,0,0,0,0
+Day 30: Investigate patient with change in bowel habits - Perform colonoscopy.,0,1,0,0,0,0
+Day 3: Evaluate patient with suspected viral encephalitis - Conduct lumbar puncture.,0,0,1,0,0,0
+Week 2: Investigate patient with unexplained lower back pain - Obtain lumbar spine MRI.,0,0,0,1,0,0
+Month 1: Assess response to chemotherapy in patient with metastatic melanoma - Schedule PET scan.,0,0,0,0,1,0
+Day 1: Assess patient with suspected scoliosis - Obtain standing spinal X-ray.,0,0,0,0,0,1
+Week 12: Evaluate patient with persistent gastroesophageal reflux - Perform upper endoscopy.,1,0,0,0,0,0
+Day 45: Investigate patient with iron deficiency anemia - Schedule colonoscopy.,0,1,0,0,0,0
+Day 14: Monitor patient with suspected multiple sclerosis - Perform lumbar puncture.,0,0,1,0,0,0
+Day 5: Assess patient with persistent vertigo - Order inner ear MRI.,0,0,0,1,0,0
+Month 9: Investigate recurrent breast cancer - Schedule PET scan.,0,0,0,0,1,0
+Day 1: Assess patient with suspected esophageal stricture and persistent cough - Perform esophagogastroduodenoscopy and chest X-ray.,1,0,0,0,0,1
+Week 6: Persistent rectal bleeding and abdominal pain - Schedule colonoscopy and abdominal MRI for patient.,0,1,0,1,0,0
+Day 3: Suspected case of bacterial meningitis and assessment of brain lesion - Conduct cerebrospinal fluid analysis via lumbar puncture and brain MRI.,0,0,1,1,0,0
+Day 10: Evaluate patient with unexplained seizures and monitor cancer progression - Order brain magnetic resonance imaging and PET scan.,0,0,0,1,1,0
+Month 3: Follow-up for patient with diagnosed lymphoma and suspected bone fracture - Schedule positron emission tomography scan and X-ray.,0,0,0,0,1,1
+Day 2: Assess patient with wrist pain after fall and suspected gastrointestinal bleeding - Obtain wrist radiograph and perform upper endoscopy.,1,0,0,0,0,1
+Day 1: Patient presenting with dyspepsia and family history of colorectal cancer - Perform upper gastrointestinal endoscopy and schedule colonoscopy.,1,1,0,0,0,0
+Day 14: Follow-up for patient with suspected chronic inflammatory demyelinating polyneuropathy and change in bowel habits - Perform lumbar puncture and colonoscopy.,0,1,1,0,0,0
+Week 4: Evaluate patient with sudden-onset unilateral vision loss and suspected brain tumor - Schedule orbital MRI and brain MRI.,0,0,0,1,0,0
+Month 6: Follow-up evaluation for patient with lung cancer and suspected bone metastasis - Arrange PET scan and bone X-ray.,0,0,0,0,1,1
+Week 8: Monitor patient with Barrett's esophagus and persistent cough - Schedule esophagogastroduodenoscopy and chest X-ray.,1,0,0,0,0,1
+Day 30: Investigate patient with change in bowel habits and suspected liver metastasis - Perform colonoscopy and abdominal MRI.,0,1,0,1,0,0
+Day 3: Evaluate patient with suspected viral encephalitis and assessment of spinal cord compression - Conduct lumbar puncture and lumbar spine MRI.,0,0,1,1,0,0
+Week 2: Investigate patient with unexplained lower back pain and suspected spinal infection - Obtain lumbar spine MRI and lumbar puncture.,0,0,1,1,0,0
+Month 1: Assess response to chemotherapy in patient with metastatic melanoma and monitor for bone metastasis - Schedule PET scan and X-ray.,0,0,0,0,1,1
+Day 1: Assess patient with suspected scoliosis and persistent abdominal pain - Obtain standing spinal X-ray and schedule colonoscopy.,0,1,0,0,0,1
+Week 12: Evaluate patient with persistent gastroesophageal reflux and suspected Crohn's disease - Perform upper endoscopy and colonoscopy.,1,1,0,0,0,0
+In_cases_of_dysphagia_an_endoscopic_examination_is_recommended,1,0,0,0,0,0
+Patients_presenting_with_persistent_abdominal_pain_and_bloating_should_undergo_a_colonoscopy,0,1,0,0,0,0
+In_cases_of_dysphagia_an_endoscopic_examination_is_recommended,1,0,0,0,0,0
+Patients_presenting_with_persistent_abdominal_pain_and_bloating_should_undergo_a_colonoscopy,0,1,0,0,0,0
+Suspected_multiple_sclerosis_patients_should_receive_a_lumbar_puncture_and_MRI,0,0,1,1,0,0
+Chronic_headache_evaluation_requires_MRI_and_lumbar_puncture,0,0,1,1,0,0
+Post-accident_trauma_evaluation_includes_XRAY_and_MRI,0,0,0,1,0,1
+Investigating_suspected_gastrointestinal_bleeding_requires_endoscopy_and_colonoscopy,1,1,0,0,0,0
+Abdominal_and_pelvic_pain_investigation_requires_colonoscopy_and_MRI,0,1,0,1,0,0
+Lung_cancer_evaluation_requires_PET_and_XRAY_scans,0,0,0,0,1,1
+Osteoporosis_screening_includes_XRAY_and_bone_density_scan,0,0,0,0,0,1
+Pancreatic_cancer_diagnosis_requires_endoscopy_and_PET,1,0,0,0,1,0
+Alzheimer's_evaluation_includes_PET_and_MRI_scans,0,0,0,1,1,0
+Diagnosing_pelvic_fractures_requires_XRAY_and_MRI_scans,0,0,0,1,0,1
+Inflammatory_bowel_disease_evaluation_includes_colonoscopy_and_MRI,0,1,0,1,0,0
+Diagnosing_esophageal_cancer_requires_endoscopy_and_PET,1,0,0,0,1,0
+Unexplained_weight_loss_diagnosis_requires_endoscopy_and_colonoscopy,1,1,0,0,0,0
+Spinal_fracture_evaluation_requires_lumbar_puncture_and_XRAY,0,0,1,0,0,1
+Brain_tumor_diagnosis_requires_MRI_and_PET_scans,0,0,0,1,1,0
+Diagnosing_stomach_ulcers_requires_endoscopy_and_XRAY,1,0,0,0,0,1
+Colon_cancer_screening_includes_colonoscopy_and_PET_scans,0,1,0,0,1,0
+Osteoarthritis_evaluation_requires_XRAY_and_MRI_scans,0,0,0,1,0,1
+Assessing_kidney_function_requires_ultrasound_and_MRI,0,0,0,1,0,0
+Diagnosing_liver_cancer_requires_endoscopy_and_PET,1,0,0,0,1,0
+Diagnosing_lung_disease_requires_XRAY_and_PET_scans,0,0,0,0,1,1
+Diagnosing_prostate_cancer_requires_PET_and_MRI_scans,0,0,0,1,1,0
+Diagnosing bronchitis requires endoscopy and XRAY,1,0,0,0,0,1
+Evaluating for stroke requires MRI and PET scans,0,0,0,1,1,0
+Diagnosing meniscal tear requires XRAY and MRI scans,0,0,0,1,0,1
+Patient with suspected Crohn's disease should have a colonoscopy and MRI,0,1,0,1,0,0
+Headaches with neurological symptoms require lumbar puncture and MRI,0,0,1,1,0,0
+"Abdominal pain with weight loss may require endoscopy, colonoscopy, and XRAY",1,1,0,0,0,1
+Investigating brain tumors involves MRI and PET scans,0,0,0,1,1,0
+Persistent cough and chest pain warrant endoscopy and XRAY examination,1,0,0,0,0,1
+Multiple sclerosis diagnosis requires lumbar puncture and MRI,0,0,1,1,0,0
+Unexplained gastrointestinal bleeding necessitates endoscopy and colonoscopy,1,1,0,0,0,0
+Patient with severe joint pain should have an XRAY and MRI,0,0,0,1,0,1
+Alzheimer's disease assessment involves PET and MRI scans,0,0,0,1,1,0
+Diagnosing spinal stenosis requires lumbar puncture and XRAY,0,0,1,0,0,1
+"Lung cancer screening may include endoscopy, PET, and XRAY",1,0,0,0,1,1
+Unexplained abdominal pain may require colonoscopy and MRI,0,1,0,1,0,0
+Evaluating persistent headaches requires lumbar puncture and MRI,0,0,1,1,0,0
+Diagnosing bone fractures requires XRAY and sometimes MRI,0,0,0,1,0,1
+Monitoring cancer progression involves PET and MRI scans,0,0,0,1,1,0
+Diagnosing liver disease may require endoscopy and MRI,1,0,0,1,0,0
+Assessing inflammatory bowel disease involves colonoscopy and MRI,0,1,0,1,0,0
+Evaluating epilepsy requires lumbar puncture and MRI,0,0,1,1,0,0
+Diagnosing osteoarthritis involves XRAY and occasionally MRI,0,0,0,1,0,1
+Assessing brain injury requires MRI and sometimes PET scans,0,0,0,1,1,0
+Diagnosing a herniated disc involves lumbar puncture and MRI,0,0,1,1,0,0
+Detecting lung nodules requires endoscopy and XRAY,1,0,0,0,0,1
+Diagnosing diverticulitis requires colonoscopy and XRAY,0,1,0,0,0,1
+Patient with severe back pain should have lumbar puncture and XRAY,0,0,1,0,0,1
+Diagnosing esophageal varices requires endoscopy and XRAY,1,0,0,0,0,1
+Examining for aneurysm needs MRI and XRAY scans,0,0,0,1,0,1
+Evaluating for intervertebral disc disease needs MRI and XRAY scans,0,0,0,1,0,1
+Patient with suspected ulcerative colitis should have a colonoscopy and MRI,0,1,0,1,0,0
+Diagnosing meningitis requires lumbar puncture and MRI,0,0,1,1,0,0
+"Assessing gastrointestinal obstruction involves endoscopy, colonoscopy, and XRAY",1,1,0,0,0,1
+Monitoring brain metastases requires MRI and PET scans,0,0,0,1,1,0
+Pulmonary embolism evaluation may involve endoscopy and XRAY examination,1,0,0,0,0,1
+Guillain-Barré syndrome diagnosis requires lumbar puncture and MRI,0,0,1,1,0,0
+Diagnosing rectal bleeding necessitates colonoscopy and endoscopy,1,1,0,0,0,0
+Patient with hip pain should have an XRAY and MRI,0,0,0,1,0,1
+Assessing for dementia involves PET and MRI scans,0,0,0,1,1,0
+Diagnosing hydrocephalus requires lumbar puncture and XRAY,0,0,1,0,0,1
+Breast cancer staging may include PET and XRAY,0,0,0,0,1,1
+Unexplained pelvic pain may require MRI and XRAY,0,0,0,1,0,1
+Evaluating chronic fatigue requires lumbar puncture and MRI,0,0,1,1,0,0
+Diagnosing a dislocated joint requires XRAY and sometimes MRI,0,0,0,1,0,1
+Monitoring lymphoma progression involves PET and MRI scans,0,0,0,1,1,0
+Diagnosing gallstones may require endoscopy and MRI,1,0,0,1,0,0
+Assessing irritable bowel syndrome involves colonoscopy and MRI,0,1,0,1,0,0
+Evaluating traumatic brain injury requires lumbar puncture and MRI,0,0,1,1,0,0
+Diagnosing rheumatoid arthritis involves XRAY and occasionally MRI,0,0,0,1,0,1
+Assessing concussion requires MRI and sometimes PET scans,0,0,0,1,1,0
+Diagnosing spinal compression involves lumbar puncture and MRI,0,0,1,1,0,0
+Detecting bronchiectasis requires endoscopy and XRAY,1,0,0,0,0,1
+Diagnosing colon polyps requires colonoscopy and XRAY,0,1,0,0,0,1
+Patient with sciatica should have lumbar puncture and XRAY,0,0,1,0,0,1
+"In cases of dysphagia, an endoscopic examination is recommended.",1,0,0,0,0,0
+Patients presenting with persistent abdominal pain and bloating should undergo a colonoscopy.,0,1,0,0,0,0
+"Due to the patient's severe headaches, a lumbar puncture is needed to rule out meningitis.",0,0,1,0,0,0
+"The patient has a history of seizures, and an MRI of the brain is required to identify any potential abnormalities.",0,0,0,1,0,0
+A PET scan is recommended for the patient to investigate the possibility of metastatic cancer.,0,0,0,0,1,0
+"The patient has been experiencing chest pain, and an X-ray is necessary to assess lung and heart health.",0,0,0,0,0,1
+The doctor ordered both an endoscopy and a colonoscopy to evaluate the patient's gastrointestinal symptoms.,1,1,0,0,0,0
+"The patient complained of difficulty swallowing, so the doctor suggested an endoscopy.",1,0,0,0,0,0
+An endoscopy was performed to identify the cause of the patient's chronic heartburn.,1,0,0,0,0,0
+Colonoscopy is the best method to screen for colorectal cancer in patients over 50 years old.,0,1,0,0,0,0
+The patient's family history of colon cancer prompted the recommendation for a colonoscopy.,0,1,0,0,0,0
+Lumbar puncture is essential to diagnose certain central nervous system infections.,0,0,1,0,0,0
+"Due to the suspected spinal fluid leak, the patient underwent a lumbar puncture.",0,0,1,0,0,0
+The radiologist recommended an MRI to evaluate the patient's knee injury.,0,0,0,1,0,0
+An MRI was ordered to investigate the cause of the patient's persistent lower back pain.,0,0,0,1,0,0
+The oncologist suggested a PET scan to evaluate the cancer's response to treatment.,0,0,0,0,1,0
+A PET scan is necessary for staging and monitoring the progression of lymphoma.,0,0,0,0,1,0
+"After the car accident, the patient needed an X-ray to check for bone fractures.",0,0,0,0,0,1
+An X-ray of the chest was ordered to evaluate the patient's persistent cough.,0,0,0,0,0,1
+An upper endoscopy was performed to investigate the patient's esophageal discomfort.,1,0,0,0,0,0
+A colonoscopy was required to remove polyps found in the patient's large intestine.,0,1,0,0,0,0
+A lumbar puncture was performed to measure the patient's cerebrospinal fluid pressure.,0,0,1,0,0,0
+An MRI of the brain was ordered to evaluate the patient's frequent migraines.,0,0,0,1,0,0
+The physician ordered a PET scan to assess the extent of the patient's cancer.,0,0,0,0,1,0
+The patient underwent an X-ray to evaluate a possible fracture after a fall.,0,0,0,0,0,1
+An endoscopy was necessary to diagnose the patient's peptic ulcer.,1,0,0,0,0,0
+The gastroenterologist recommended a colonoscopy to investigate the patient's rectal bleeding.,0,1,0,0,0,0
+A lumbar puncture was needed to test for the presence of multiple sclerosis.,0,0,1,0,0,0
+The doctor ordered an MRI to determine the cause of the patient's chronic hip pain.,0,0,0,1,0,0
+A PET scan was recommended to monitor the effectiveness of the patient's cancer treatment.,0,0,0,0,1,0
+An X-ray was necessary to determine the severity of the patient's scoliosis.,0,0,0,0,0,1
+The patient's ongoing stomach pain led to the recommendation of an endoscopy.,1,0,0,0,0,0
+The patient's unexplained weight loss warranted an endoscopy to examine the gastrointestinal tract.,1,0,0,0,0,0
+An endoscopy was performed to investigate the cause of the patient's chronic acid reflux.,1,0,0,0,0,0
+A colonoscopy was suggested due to the patient's positive fecal occult blood test.,0,1,0,0,0,0
+The physician recommended a colonoscopy to investigate the patient's change in bowel habits.,0,1,0,0,0,0
+A lumbar puncture was required to test for the presence of Guillain-Barré syndrome.,0,0,1,0,0,0
+The neurologist performed a lumbar puncture to diagnose a potential case of encephalitis.,0,0,1,0,0,0
+An MRI was requested to examine the patient's soft tissue injury in the shoulder.,0,0,0,1,0,0
+The orthopedist ordered an MRI to evaluate the patient's torn ligament in the ankle.,0,0,0,1,0,0
+A PET scan was conducted to determine the extent of the patient's metastatic disease.,0,0,0,0,1,0
+The patient underwent a PET scan to evaluate the effectiveness of their immunotherapy treatment.,0,0,0,0,1,0
+An X-ray was performed to assess the patient's possible pneumonia.,0,0,0,0,0,1
+The patient required an X-ray to check for a dislocated shoulder after a sports injury.,0,0,0,0,0,1
+The patient underwent an endoscopy to confirm the presence of a stomach ulcer.,1,0,0,0,0,0
+A colonoscopy was necessary to monitor the patient's inflammatory bowel disease.,0,1,0,0,0,0
+A lumbar puncture was performed to diagnose a suspected case of subarachnoid hemorrhage.,0,0,1,0,0,0
+The doctor ordered an MRI to assess the patient's pituitary gland tumor.,0,0,0,1,0,0
+A PET scan was recommended to detect potential cancer recurrence.,0,0,0,0,1,0
+An X-ray was needed to evaluate the patient's suspected broken wrist.,0,0,0,0,0,1
+An endoscopy was performed to identify the source of the patient's gastrointestinal bleeding.,1,0,0,0,0,0
+A colonoscopy was recommended for the patient with a history of familial adenomatous polyposis.,0,1,0,0,0,0
+The patient needed a lumbar puncture to investigate potential hydrocephalus.,0,0,1,0,0,0
+An MRI was ordered to assess the patient's spinal stenosis.,0,0,0,1,0,0
+The patient underwent a PET scan to evaluate the spread of their melanoma.,0,0,0,0,1,0
+An X-ray was performed to investigate the patient's suspected broken ribs.,0,0,0,0,0,1
+The doctor recommended an endoscopy for the patient with suspected celiac disease.,1,0,0,0,0,0
+The patient's recurrent episodes of vomiting led to an endoscopy recommendation.,1,0,0,0,0,0
+An endoscopy was performed to examine the patient's esophageal varices.,1,0,0,0,0,0
+The patient's persistent diarrhea prompted a colonoscopy recommendation.,0,1,0,0,0,0
+A colonoscopy was suggested for the patient experiencing unexplained weight loss.,0,1,0,0,0,0
+The physician performed a lumbar puncture to investigate the patient's suspected meningitis.,0,0,1,0,0,0
+A lumbar puncture was necessary to diagnose the patient's idiopathic intracranial hypertension.,0,0,1,0,0,0
+An MRI was ordered to assess the patient's rotator cuff tear.,0,0,0,1,0,0
+The patient underwent an MRI to evaluate their multiple sclerosis progression.,0,0,0,1,0,0
+A PET scan was performed to monitor the patient's cancer after chemotherapy.,0,0,0,0,1,0
+The physician ordered a PET scan to detect the presence of metastases in the patient's bones.,0,0,0,0,1,0
+An X-ray was taken to assess the patient's potential sinus infection.,0,0,0,0,0,1
+The patient required an X-ray to evaluate the healing of their broken leg.,0,0,0,0,0,1
+An endoscopy was performed to diagnose the patient's gastroesophageal reflux disease.,1,0,0,0,0,0
+The patient's history of ulcerative colitis warranted a colonoscopy.,0,1,0,0,0,0
+A lumbar puncture was performed to check for the presence of a cerebral spinal fluid leak.,0,0,1,0,0,0
+An MRI was ordered to investigate the patient's chronic pelvic pain.,0,0,0,1,0,0
+The doctor recommended a PET scan to assess the patient's response to targeted therapy.,0,0,0,0,1,0
+An X-ray was performed to check for a possible fracture in the patient's foot.,0,0,0,0,0,1
+The patient underwent an endoscopy to evaluate their Barrett's esophagus.,1,0,0,0,0,0
+A colonoscopy was recommended for the patient experiencing persistent constipation.,0,1,0,0,0,0
+The patient's severe headache led to a lumbar puncture recommendation.,0,0,1,0,0,0
+An MRI was conducted to investigate the patient's unexplained dizziness.,0,0,0,1,0,0
+A PET scan was performed to stage the patient's newly diagnosed lung cancer.,0,0,0,0,1,0
+An X-ray was taken to assess the patient's suspected bone fracture.,0,0,0,0,0,1
+An endoscopy was recommended to evaluate the patient's unexplained abdominal pain.,1,0,0,0,0,0
+A colonoscopy was conducted to investigate the patient's iron deficiency anemia.,0,1,0,0,0,0
+An endoscopy was performed to determine the cause of the patient's dyspepsia.,1,0,0,0,0,0
+The patient underwent an endoscopy to examine their esophagitis symptoms.,1,0,0,0,0,0
+The physician recommended a colonoscopy for the patient with a family history of colon cancer.,0,1,0,0,0,0
+A colonoscopy was conducted to monitor the patient's diverticulitis.,0,1,0,0,0,0
+The patient required a lumbar puncture to test for possible multiple sclerosis.,0,0,1,0,0,0
+A lumbar puncture was performed to diagnose the patient's unexplained neurological symptoms.,0,0,1,0,0,0
+An MRI was ordered to investigate the patient's persistent lower back pain.,0,0,0,1,0,0
+The patient underwent an MRI to assess the severity of their slipped disc.,0,0,0,1,0,0
+A PET scan was conducted to monitor the patient's lymphoma progression.,0,0,0,0,1,0
+The physician ordered a PET scan to assess the patient's response to cancer treatment.,0,0,0,0,1,0
+An X-ray was taken to evaluate the patient's potential lung infection.,0,0,0,0,0,1
+The patient required an X-ray to check for a possible hip fracture.,0,0,0,0,0,1
+An endoscopy was recommended to examine the patient's chronic gastritis.,1,0,0,0,0,0
+The patient's rectal bleeding led to a colonoscopy recommendation.,0,1,0,0,0,0
+A lumbar puncture was performed to investigate the patient's suspected nerve inflammation.,0,0,1,0,0,0
+An MRI was ordered to assess the patient's brain tumor growth.,0,0,0,1,0,0
+The doctor recommended a PET scan to determine the effectiveness of the patient's cancer therapy.,0,0,0,0,1,0
+An X-ray was performed to examine the patient's potential bone infection.,0,0,0,0,0,1
+The patient underwent an endoscopy to evaluate their Zollinger-Ellison syndrome.,1,0,0,0,0,0
+A colonoscopy was conducted to investigate the patient's polyps.,0,1,0,0,0,0
+The patient's elevated intracranial pressure led to a lumbar puncture recommendation.,0,0,1,0,0,0
+An MRI was conducted to investigate the patient's carpal tunnel syndrome.,0,0,0,1,0,0
+A PET scan was performed to evaluate the patient's Alzheimer's disease progression.,0,0,0,0,1,0
+An X-ray was taken to assess the patient's suspected spinal fracture.,0,0,0,0,0,1
+An endoscopy was recommended to determine the cause of the patient's upper gastrointestinal bleeding.,1,0,0,0,0,0
+A colonoscopy was conducted to assess the patient's Crohn's disease severity.,0,1,0,0,0,0
+The patient underwent an endoscopy to examine their gastroesophageal reflux disease.,1,0,0,0,0,0
+The physician recommended a colonoscopy for the patient with a family history of colon cancer.,0,1,0,0,0,0
+A colonoscopy was conducted to monitor the patient's ulcerative colitis.,0,1,0,0,0,0
+The patient required a lumbar puncture to test for possible meningitis.,0,0,1,0,0,0
+A lumbar puncture was performed to diagnose the patient's multiple sclerosis.,0,0,1,0,0,0
+An MRI was ordered to investigate the patient's persistent shoulder pain.,0,0,0,1,0,0
+The patient underwent an MRI to assess the severity of their brain injury.,0,0,0,1,0,0
+A PET scan was conducted to monitor the patient's lung cancer progression.,0,0,0,0,1,0
+The physician ordered a PET scan to evaluate the patient's heart disease.,0,0,0,0,1,0
+An X-ray was taken to evaluate the patient's potential kidney stones.,0,0,0,0,0,1
+The patient required an X-ray to check for a possible spinal fracture.,0,0,0,0,0,1
+An endoscopy was recommended to examine the patient's chronic acid reflux.,1,0,0,0,0,0
+The patient's bloody stool led to a colonoscopy recommendation.,0,1,0,0,0,0
+A lumbar puncture was performed to investigate the patient's suspected meningitis.,0,0,1,0,0,0
+An MRI was ordered to assess the patient's herniated disc.,0,0,0,1,0,0
+The doctor recommended a PET scan to determine the patient's cancer stage.,0,0,0,0,1,0
+An X-ray was performed to examine the patient's potential rib fracture.,0,0,0,0,0,1
+The patient underwent an endoscopy to evaluate their Barrett's esophagus.,1,0,0,0,0,0
+A colonoscopy was conducted to investigate the patient's diverticulosis.,0,1,0,0,0,0
+The patient's vision problems led to a lumbar puncture recommendation.,0,0,1,0,0,0
+An MRI was conducted to investigate the patient's back pain.,0,0,0,1,0,0
+A PET scan was performed to evaluate the patient's lymphoma treatment response.,0,0,0,0,1,0
+An X-ray was taken to assess the patient's suspected fractured wrist.,0,0,0,0,0,1
+An endoscopy was recommended to determine the cause of the patient's gastrointestinal bleeding.,1,0,0,0,0,0
+A colonoscopy was conducted to assess the patient's polyps.,0,1,0,0,0,0
+The patient's severe headache led to a lumbar puncture recommendation.,0,0,1,0,0,0
+An MRI was ordered to assess the patient's suspected spinal cord injury.,0,0,0,1,0,0
+The patient underwent an endoscopy to evaluate their suspected gastric ulcer.,1,0,0,0,0,0
+The physician recommended a colonoscopy for the patient with a family history of colon polyps.,0,1,0,0,0,0
+A colonoscopy was conducted to monitor the patient's Crohn's disease.,0,1,0,0,0,0
+The patient required a lumbar puncture to test for possible meningococcal disease.,0,0,1,0,0,0
+A lumbar puncture was performed to diagnose the patient's neurosyphilis.,0,0,1,0,0,0
+An MRI was ordered to investigate the patient's potential spinal cord tumor.,0,0,0,1,0,0
+The patient underwent an MRI to assess their suspected rotator cuff tear.,0,0,0,1,0,0
+A PET scan was conducted to monitor the patient's lymphoma recurrence.,0,0,0,0,1,0
+The physician ordered a PET scan to evaluate the patient's lung nodules.,0,0,0,0,1,0
+An X-ray was taken to evaluate the patient's potential stress fracture.,0,0,0,0,0,1
+The patient required an X-ray to check for a possible hip fracture.,0,0,0,0,0,1
+An endoscopy was recommended to examine the patient's suspected stomach cancer.,1,0,0,0,0,0
+The patient's weight loss led to a colonoscopy recommendation.,0,1,0,0,0,0
+A lumbar puncture was performed to investigate the patient's suspected subarachnoid hemorrhage.,0,0,1,0,0,0
+An MRI was ordered to assess the patient's suspected brain tumor.,0,0,0,1,0,0
+The doctor recommended a PET scan to determine the patient's response to chemotherapy.,0,0,0,0,1,0
+An X-ray was performed to examine the patient's potential rib fracture.,0,0,0,0,0,1
+The patient underwent an endoscopy to evaluate their suspected esophageal cancer.,1,0,0,0,0,0
+A colonoscopy was conducted to investigate the patient's suspected colon cancer.,0,1,0,0,0,0
+The patient's severe back pain led to a lumbar puncture recommendation.,0,0,1,0,0,0
+An MRI was conducted to investigate the patient's knee injury.,0,0,0,1,0,0
+A PET scan was performed to evaluate the patient's suspected lymphoma.,0,0,0,0,1,0
+An X-ray was taken to assess the patient's potential ankle fracture.,0,0,0,0,0,1
+An endoscopy was recommended to determine the cause of the patient's abdominal pain.,1,0,0,0,0,0
+A colonoscopy was conducted to assess the patient's ulcerative colitis.,0,1,0,0,0,0
+The patient's change in mental status led to a lumbar puncture recommendation.,0,0,1,0,0,0
+An MRI was ordered to investigate the patient's suspected brain aneurysm.,0,0,0,1,0,0
+A PET scan was conducted to monitor the patient's thyroid cancer progression.,0,0,0,0,1,0
+An X-ray was taken to evaluate the patient's potential rib fracture.,0,0,0,0,0,1
+The patient underwent an endoscopy to evaluate their suspected hiatal hernia.,1,0,0,0,0,0
+A colonoscopy was conducted to investigate the patient's rectal bleeding.,0,1,0,0,0,0
+The patient required a lumbar puncture to test for possible encephalitis.,0,0,1,0,0,0
+An MRI was ordered to assess the patient's suspected brain tumor.,0,0,0,1,0,0
+The doctor recommended a PET scan to determine the patient's cancer metastasis.,0,0,0,0,1,0
+An X-ray was performed to examine the patient's potential ankle fracture.,0,0,0,0,0,1
+The patient underwent an endoscopy to evaluate their suspected gastritis.,1,0,0,0,0,0
+A colonoscopy was recommended to assess the patient's rectal polyps.,0,1,0,0,0,0
+The patient's headache led to a lumbar puncture recommendation.,0,0,1,0,0,0
+An MRI was conducted to investigate the patient's neck pain.,0,0,0,1,0,0
+A PET scan was performed to evaluate the patient's breast cancer treatment response.,0,0,0,0,1,0
+An X-ray was taken to assess the patient's suspected bone fracture.,0,0,0,0,0,1
+An endoscopy was recommended to evaluate the patient's suspected stomach ulcer.,1,0,0,0,0,0
+A colonoscopy was conducted to investigate the patient's colon polyps.,0,1,0,0,0,0
+The patient required a lumbar puncture to test for possible meningitis.,0,0,1,0,0,0
+An MRI was ordered to assess the patient's potential spinal cord injury.,0,0,0,1,0,0
+The doctor recommended a PET scan to evaluate the patient's lung nodules.,0,0,0,0,1,0
+An X-ray was performed to examine the patient's potential bone fracture.,0,0,0,0,0,1
+The patient underwent an endoscopy to evaluate their suspected GERD.,1,0,0,0,0,0
+A colonoscopy was conducted to assess the patient's Crohn's disease.,0,1,0,0,0,0
+The patient's change in mental status led to a lumbar puncture recommendation.,0,0,1,0,0,0
+An MRI was ordered to investigate the patient's potential brain tumor.,0,0,0,1,0,0
+A PET scan was performed to evaluate the patient's suspected liver metastasis.,0,0,0,0,1,0
+An X-ray was taken to assess the patient's suspected wrist fracture.,0,0,0,0,0,1

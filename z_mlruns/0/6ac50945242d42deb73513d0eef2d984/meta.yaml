@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/6ac50945242d42deb73513d0eef2d984/artifacts
+end_time: 1697470624494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ac50945242d42deb73513d0eef2d984
+run_name: funny-dove-557
+run_uuid: 6ac50945242d42deb73513d0eef2d984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697470616821
+status: 3
+tags: []
+user_id: simle

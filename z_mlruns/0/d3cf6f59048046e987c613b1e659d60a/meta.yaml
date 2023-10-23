@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/d3cf6f59048046e987c613b1e659d60a/artifacts
+end_time: 1697656692742
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3cf6f59048046e987c613b1e659d60a
+run_name: burly-midge-19
+run_uuid: d3cf6f59048046e987c613b1e659d60a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697656688490
+status: 3
+tags: []
+user_id: simle

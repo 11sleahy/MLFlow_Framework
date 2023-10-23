@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/bacfe382691a4964be528760186e26bc/artifacts
+end_time: 1697656848508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bacfe382691a4964be528760186e26bc
+run_name: sedate-robin-668
+run_uuid: bacfe382691a4964be528760186e26bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697656844556
+status: 3
+tags: []
+user_id: simle

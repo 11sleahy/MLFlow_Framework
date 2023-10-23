@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/f435e2b6fb654cfc9fdd46e29427ed42/artifacts
+end_time: 1697651634192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f435e2b6fb654cfc9fdd46e29427ed42
+run_name: polite-panda-940
+run_uuid: f435e2b6fb654cfc9fdd46e29427ed42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697651630111
+status: 3
+tags: []
+user_id: simle

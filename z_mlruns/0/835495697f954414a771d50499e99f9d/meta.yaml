@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/835495697f954414a771d50499e99f9d/artifacts
+end_time: 1697656901331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 835495697f954414a771d50499e99f9d
+run_name: upbeat-eel-305
+run_uuid: 835495697f954414a771d50499e99f9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697656897305
+status: 3
+tags: []
+user_id: simle

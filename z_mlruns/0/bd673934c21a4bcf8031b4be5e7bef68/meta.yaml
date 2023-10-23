@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/bd673934c21a4bcf8031b4be5e7bef68/artifacts
+end_time: 1697656882032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd673934c21a4bcf8031b4be5e7bef68
+run_name: abundant-colt-699
+run_uuid: bd673934c21a4bcf8031b4be5e7bef68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697656877994
+status: 3
+tags: []
+user_id: simle

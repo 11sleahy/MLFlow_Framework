@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/8510e0d7fb654214bc7862b0d1ff34ee/artifacts
+end_time: 1697656673110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8510e0d7fb654214bc7862b0d1ff34ee
+run_name: sincere-hound-999
+run_uuid: 8510e0d7fb654214bc7862b0d1ff34ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697656668960
+status: 3
+tags: []
+user_id: simle

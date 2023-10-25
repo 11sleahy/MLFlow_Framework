@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/d85678f92231452abd1c0c8c45a0b6ac/artifacts
+end_time: 1698091978251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d85678f92231452abd1c0c8c45a0b6ac
+run_name: welcoming-lark-682
+run_uuid: d85678f92231452abd1c0c8c45a0b6ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698091974203
+status: 3
+tags: []
+user_id: simle

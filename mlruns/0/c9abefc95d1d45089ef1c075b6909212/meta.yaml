@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/c9abefc95d1d45089ef1c075b6909212/artifacts
+end_time: 1698176784614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9abefc95d1d45089ef1c075b6909212
+run_name: upset-swan-422
+run_uuid: c9abefc95d1d45089ef1c075b6909212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698176778388
+status: 4
+tags: []
+user_id: simle

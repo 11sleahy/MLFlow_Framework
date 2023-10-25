@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/86a061d15f074e668d224d36479dd21d/artifacts
+end_time: 1698176756946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86a061d15f074e668d224d36479dd21d
+run_name: sincere-lark-767
+run_uuid: 86a061d15f074e668d224d36479dd21d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698176750221
+status: 4
+tags: []
+user_id: simle

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/95357aad6fff4f62abee37c97a17c79e/artifacts
+end_time: 1698089582569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95357aad6fff4f62abee37c97a17c79e
+run_name: enchanting-fish-487
+run_uuid: 95357aad6fff4f62abee37c97a17c79e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698089582536
+status: 4
+tags: []
+user_id: simle

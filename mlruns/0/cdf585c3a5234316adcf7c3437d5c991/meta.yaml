@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/cdf585c3a5234316adcf7c3437d5c991/artifacts
+end_time: 1698089635155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdf585c3a5234316adcf7c3437d5c991
+run_name: redolent-bear-282
+run_uuid: cdf585c3a5234316adcf7c3437d5c991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698089629606
+status: 3
+tags: []
+user_id: simle

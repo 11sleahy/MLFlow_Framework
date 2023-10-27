@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/82b097d956464489b1a7bea717ac7488/artifacts
+end_time: 1698418963592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82b097d956464489b1a7bea717ac7488
+run_name: nosy-elk-666
+run_uuid: 82b097d956464489b1a7bea717ac7488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698418948210
+status: 4
+tags: []
+user_id: simle

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/c52291cf5bcc42e6a82354a0a072da4f/artifacts
+end_time: 1698435819249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c52291cf5bcc42e6a82354a0a072da4f
+run_name: delicate-panda-173
+run_uuid: c52291cf5bcc42e6a82354a0a072da4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698435808934
+status: 3
+tags: []
+user_id: simle

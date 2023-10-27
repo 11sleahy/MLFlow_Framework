@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/bddc76f645a5424a8a1fda157b10ace5/artifacts
+end_time: 1698353466852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bddc76f645a5424a8a1fda157b10ace5
+run_name: defiant-hen-338
+run_uuid: bddc76f645a5424a8a1fda157b10ace5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698353456218
+status: 3
+tags: []
+user_id: simle

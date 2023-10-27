@@ -34,10 +34,6 @@ def eval_metrics(actual, pred):
     r2 = r2_score(actual, pred)
     return rmse, mae, r2
 
-
-
-
-
 if __name__ == "__main__":
     warnings.filterwarnings("ignore")
     np.random.seed(40)
@@ -56,7 +52,6 @@ if __name__ == "__main__":
     # Split the data into training and test sets. (0.75, 0.25) split.
     train, test = train_test_split(data)
 
-    # The predicted column is "quality" which is a scalar from [3, 9]
     train_x = x_train
     train_y = y_train
     test_x = x_test
@@ -68,35 +63,23 @@ if __name__ == "__main__":
 
 
     with mlflow.start_run():
-        knn = KNeighborsClassifier()
-#        lr = ElasticNet(alpha=alpha, l1_ratio=l1_ratio, random_state=42)
-#        lr = ElasticNet(alpha=alpha, l1_ratio=l1_ratio, random_state=42)
-
-#        predicted_qualities = knn.predict(test_x)
+        knn = KNeighborsClassifier(n_neighbors=5)
         op = knn_hyperparameter_selection(train_x,train_y)
-
-
-
 
         n_neighbors,distance_type,weights = (op.n_neighbors,
         ['Manhattan' if op.p == 1 else 'Euclidean'],op.weights)
-
+        op.fit(x_train,y_train)
+        pred = op.predict(x_test)
+        print(pred[:5])
+        print(y_train[:5])
+        print(type(pred))
+        print(type(y_train.array))
+        print(classification_report(y_test.array,pred))
         print(f"Number of Neighbors= {n_neighbors}")
         print(f"Distance Type= {distance_type[0]}")        
         print(f"Weight Type= {weights}")
-
-        # print(f"Elasticnet model (alpha={alpha:f}, l1_ratio={l1_ratio:f}):")
-        # print(f"  RMSE: {rmse}")
-        # print(f"  MAE: {mae}")
-        # print(f"  R2: {r2}")
-
-        # mlflow.log_param("alpha", alpha)
-        # mlflow.log_param("l1_ratio", l1_ratio)
-        # mlflow.log_metric("rmse", rmse)
-        # mlflow.log_metric("r2", r2)
-        # mlflow.log_metric("mae", mae)
-
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
+        
 
         # Model registry does not work with file store
         if tracking_url_type_store != "file":

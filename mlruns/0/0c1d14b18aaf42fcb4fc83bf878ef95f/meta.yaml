@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/0c1d14b18aaf42fcb4fc83bf878ef95f/artifacts
+end_time: 1698434468897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c1d14b18aaf42fcb4fc83bf878ef95f
+run_name: orderly-whale-943
+run_uuid: 0c1d14b18aaf42fcb4fc83bf878ef95f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698434455032
+status: 3
+tags: []
+user_id: simle

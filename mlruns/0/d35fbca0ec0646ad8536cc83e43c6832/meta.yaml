@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/d35fbca0ec0646ad8536cc83e43c6832/artifacts
+end_time: 1698352350401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d35fbca0ec0646ad8536cc83e43c6832
+run_name: stately-lynx-758
+run_uuid: d35fbca0ec0646ad8536cc83e43c6832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698352339787
+status: 3
+tags: []
+user_id: simle

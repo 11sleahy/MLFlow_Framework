@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/8e8e01707d2d4c07be9a37a9742cc24c/artifacts
+end_time: 1698435582995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e8e01707d2d4c07be9a37a9742cc24c
+run_name: entertaining-bug-394
+run_uuid: 8e8e01707d2d4c07be9a37a9742cc24c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698435568095
+status: 3
+tags: []
+user_id: simle

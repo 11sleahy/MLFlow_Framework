@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/f048780c485a4df881e97076c6933380/artifacts
+end_time: 1698419015720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f048780c485a4df881e97076c6933380
+run_name: indecisive-seal-87
+run_uuid: f048780c485a4df881e97076c6933380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698418993583
+status: 3
+tags: []
+user_id: simle

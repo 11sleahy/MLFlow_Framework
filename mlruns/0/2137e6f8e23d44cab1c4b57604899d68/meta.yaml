@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/2137e6f8e23d44cab1c4b57604899d68/artifacts
+end_time: 1698418606433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2137e6f8e23d44cab1c4b57604899d68
+run_name: merciful-fawn-539
+run_uuid: 2137e6f8e23d44cab1c4b57604899d68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698418595444
+status: 4
+tags: []
+user_id: simle

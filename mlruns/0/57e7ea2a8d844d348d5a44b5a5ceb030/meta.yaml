@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/57e7ea2a8d844d348d5a44b5a5ceb030/artifacts
+end_time: 1698435738316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57e7ea2a8d844d348d5a44b5a5ceb030
+run_name: learned-lynx-165
+run_uuid: 57e7ea2a8d844d348d5a44b5a5ceb030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698435732111
+status: 4
+tags: []
+user_id: simle

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/simle/OneDrive/Documents/Apexon/MLFlow/mlruns/0/4849da353b8643bda5e37e9969e2210b/artifacts
+end_time: 1698667918014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4849da353b8643bda5e37e9969e2210b
+run_name: bald-carp-337
+run_uuid: 4849da353b8643bda5e37e9969e2210b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698667905264
+status: 3
+tags: []
+user_id: simle

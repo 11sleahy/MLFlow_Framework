@@ -1,2 +1,6 @@
-
+'data_path': 'data/processed'
+'dataset_name' : 'HR_Employee_Attrition_Dataset.xlsx'
+'model_path': 'KNN_Flow_tst'
+'model_file': 'knn_flow.py'
+'model_framework':'knn_hyperaparameter_selection'
   
